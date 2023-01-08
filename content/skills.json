@@ -1,52 +1,28 @@
 {
     "skills": [
         {
-            "name": "Java",
-            "icon": "java.svg"
+            "name": "ETAP",
+            "icon": "etap.svg"
         },
         {
-            "name": "Kotlin",
-            "icon": "kotlin.svg"
+            "name": "Visio",
+            "icon": "visio.svg"
         },
         {
-            "name": "Golang",
-            "icon": "golang.svg"
+            "name": "DIGSI",
+            "icon": "digsi.svg"
         },
         {
-            "name": "Scala",
-            "icon": "scala.svg"
+            "name": "Simacode",
+            "icon": "simacode.svg"
         },
         {
-            "name": "Python",
-            "icon": "python.svg"
+            "name": "NR Relay",
+            "icon": "nr.svg"
         },
         {
-            "name": "MySQL",
-            "icon": "mysql.svg"
-        },
-        {
-            "name": "GraphQL",
-            "icon": "graphql.svg"
-        },
-        {
-            "name": "Git",
-            "icon": "git.svg"
-        },
-        {
-            "name": "Javascript",
-            "icon": "javascript.svg"
-        },
-        {
-            "name": "HTML",
-            "icon": "html.svg"
-        },
-        {
-            "name": "CSS",
-            "icon": "css.svg"
-        },
-        {
-            "name": "SASS",
-            "icon": "sass.svg"
+            "name": "ABB",
+            "icon": "abb.svg"
         }
     ]
 }

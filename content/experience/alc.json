@@ -1,15 +1,21 @@
 {
-    "company": "Andela Learning Community",
-    "company_website": "https://andela.com",
-    "role": "ALC Android Facilitator",
+    "company": "APRIL Group",
+    "company_website": "https://aprilasia.com",
+    "role": "Electrical PSD Engineer",
     "contract": {
-        "type": "Part time",
+        "type": "Full time",
         "live": false
     },
-    "duration": "June 2019 - May 2020",
-    "description": "The aim of this program is to continuously engage with aspiring and existing developers to help them become professional developers with skills that can get them opportunities after the program.",
+    "duration": "Feb 2021 - Present",
+    "description": "Responsible for the reliability power system distribution and it's equipment in Turbine-Generator area.",
     "tasks": [
-        "I was an Active Mentor of the Google Africa Developer Scholarship (GADS) program in Nairobi.",
-        "I helped run Meetups and mentor in the Android Track."
+        "Maintenance activities of Motor, Air Compressor, Cooling Tower, Generator Step Up 11kV-150kV.",
+        "Troubleshooting equipment of Switchgear (LV/MV), Circuit Breaker (Vacuum, Gas SF6), Protection Relay and Interlocking, Disconnector Switch, Earthing Switch, Power & Control Cable."
+        "Configure & Test Relay Protection Generator & Busbar Protection.",
+        "Perform Voltage & Current secondary injection for Sychronizing Line Voltage 20kV or 33kV to Bus Voltage 150kV using Omicron CMC 356.",
+        "Maintenance activities and recording battery cells, battery charger 110V DC for control voltage supply power.",
+        "Manage Project with Vendor to implement and commisioning project upgrade PDC Panel Synchronizing 150kV.",
+        "Perform Predictive Maintenance of electrical equipment by Thermal Inspection using Infrared Camera FLIR T1040.",
+        "Troubleshooting Smart MCC starter module profibus using Simacode ES V16.",
     ]
 }
