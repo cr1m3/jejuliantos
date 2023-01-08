@@ -17,7 +17,6 @@
     }
   },
   "exclude": [
-    ".nuxt",
     "dist"
   ]
 }
